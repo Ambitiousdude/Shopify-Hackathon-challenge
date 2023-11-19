@@ -52,7 +52,7 @@ Strictly (HTML, CSS, AND VANILLA JAVASCRIPT) no Css frameworks, and Javascript f
 
 ### 🔖 Roadmap and future enhancement
 
-The point is to build solutions that solve the problems specific to a business which is to design a responsive dashboard used by Shopify's 1.75 million merchants globally, which would be accessible to Mouse users, key-board users, and screen-readers too.
+The point is to build solutions that solve the problems specific to a business which is to design a responsive dashboard used by Shopify's 1.75 million merchants globally to be accessible to Mouse users, key-board users, and screen-readers too.
 
 ### 📸/📹 Live Demo/Screenshot
 
