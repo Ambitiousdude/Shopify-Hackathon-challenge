@@ -56,7 +56,15 @@ The point is to build solutions that solve the problems specific to a business w
 
 ### 📸/📹 Live Demo/Screenshot
 
-![Screenshot of the project](./high-fidelity%20figma%20design/Prototype.png)
+![Screenshot of the project](./high-fidelity%20figma%20design/Frame%201.png)
+![Screenshot of the project](./high-fidelity%20figma%20design/Frame%202.png)
+![Screenshot of the project](./high-fidelity%20figma%20design/Frame%203.png)
+![Screenshot of the project](./high-fidelity%20figma%20design/Frame%204.png)
+![Screenshot of the project](./high-fidelity%20figma%20design/Frame%205.png)
+![Screenshot of the project](./high-fidelity%20figma%20design/Frame%206.png)
+![Screenshot of the project](./high-fidelity%20figma%20design/Frame%207.png)
+![Screenshot of the project](./high-fidelity%20figma%20design/Frame%208.png)
+![Screenshot of the project](./high-fidelity%20figma%20design/Frame%209.png)
 
 ### 👤 Contact Information
 
